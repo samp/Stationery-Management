@@ -1,0 +1,22 @@
+C:\Users\isamb\Desktop\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.exe
+C:\Users\isamb\Desktop\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.deps.json
+C:\Users\isamb\Desktop\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.runtimeconfig.json
+C:\Users\isamb\Desktop\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.runtimeconfig.dev.json
+C:\Users\isamb\Desktop\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.dll
+C:\Users\isamb\Desktop\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.pdb
+C:\Users\isamb\Desktop\Stationery Management\obj\Debug\netcoreapp3.1\Stationery Management.csprojAssemblyReference.cache
+C:\Users\isamb\Desktop\Stationery Management\obj\Debug\netcoreapp3.1\Stationery Management.AssemblyInfoInputs.cache
+C:\Users\isamb\Desktop\Stationery Management\obj\Debug\netcoreapp3.1\Stationery Management.AssemblyInfo.cs
+C:\Users\isamb\Desktop\Stationery Management\obj\Debug\netcoreapp3.1\Stationery Management.dll
+C:\Users\isamb\Desktop\Stationery Management\obj\Debug\netcoreapp3.1\Stationery Management.pdb
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.exe
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.deps.json
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.runtimeconfig.json
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.runtimeconfig.dev.json
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.dll
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\bin\Debug\netcoreapp3.1\Stationery Management.pdb
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\obj\Debug\netcoreapp3.1\Stationery Management.csprojAssemblyReference.cache
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\obj\Debug\netcoreapp3.1\Stationery Management.AssemblyInfoInputs.cache
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\obj\Debug\netcoreapp3.1\Stationery Management.AssemblyInfo.cs
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\obj\Debug\netcoreapp3.1\Stationery Management.dll
+C:\Users\isamb\OneDrive - Staffordshire University\COMP40003 Software Development and Application Modelling\Software Assignment\Stationery Management\obj\Debug\netcoreapp3.1\Stationery Management.pdb
